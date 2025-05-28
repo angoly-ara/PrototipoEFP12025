@@ -1,0 +1,11 @@
+commit 48380c9770e895735a856ae05954c465530fc734
+Author: ¨[Angoly <¨[aaraujom@miumg.edu.gt]¨>
+Date:   Wed May 28 10:59:19 2025 -0600
+
+    Proyecto completo
+
+commit ac5040ba4379014af2f6fc857e82842b0059b501
+Author: ¨[Angoly <¨[aaraujom@miumg.edu.gt]¨>
+Date:   Wed May 28 10:40:53 2025 -0600
+
+    Main del prototipo
